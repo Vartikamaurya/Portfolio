@@ -1,0 +1,52 @@
+VARTIKA MAURYA +91 7307366790 | Pratapgarh, Uttar Pradesh | Full Stack Developer | vartikamaurya350@gmail.com 
+www.linkedin.com/in/vartika-maurya641 |  https://github.com/Vartikamaurya 
+ 
+ 
+EDUCATION 
+Kamla Nehru Institute of  Physical and Social Science, RMLU University Sultanpur,  Uttar  Pradesh 
+Bachelor of Science in (B.sc) 
+Score – 8.3 CGPA Aug 2021 – June 2024 
+Kamla Nehru Institute of  Physical and Social Science, RMLU University Sultanpur,  Uttar  Pradesh 
+Diploma in Computer Application (DCA) 
+Score – 6.2 CGPA August 2021 – December 2022 
+TECHNICAL  SKILLS 
+Languages:  JavaScript, Python, C++, HTML, CSS 
+Libraries/Frameworks: ReactJS, Redux, NodeJS, Express, Tailwind CSS 
+Databases:  MongoDB,  SQLite, PostgreSQL, MySQL 
+Technologies /Tools:  Git, GitHub, GitLab, Postman, REST APIs, JWT, OAuth, AWS (Basics), Render 
+Learning: NextJS, GraphQL, Web Security, DSA, Microservices 
+PROJECTS 
+Nxt Watch (YouTube Clone) [ Express, React.js, Node.js , JWT, Render] 
+•  Developed Nxt Watch, a YouTube clone application using React, Node.js, and Express.js.  
+•  Implemented user authentication with JWT tokens, login, and protected routes. 
+•  Used React Router for routing across Home, Trending, Gaming, and Saved Videos pages. 
+•  Handled responsive UI design using HTML, CSS, Bootstrap, and React components. 
+•  (Username:-rahul,  password :-rahul@2021) 
+Nxt Trendz (E-commerce clone)  [ Express, ReactJs, NodeJs , JWT, Render] 
+•  Used React Router for routing across Home, Trending, Gaming, and Saved Videos pages. 
+•  Developed Nxt Trendz, an eCommerce web app clone of Amazon/Flipkart using React JS. 
+•  Implemented login with JWT authentication, protected routes, and local storage session. 
+•  Built product listing with search, filters, sorting, and detailed views via REST APIs. 
+•  Used React Router for navigation and dynamic rendering of components. 
+•  Styled UI using CSS, Bootstrap, and managed state with React props and hooks. 
+•   (Username:-rahul,  password :-rahul@2021) 
+ 
+   Jobby App  [HTML, CSS, and JavaScript deployed on Vercel] 
+•  Used React Router for routing across Home, Trending, Gaming, and Saved Videos pages. 
+•  Built Jobby App, a job search platform that allows users to find and apply for jobs.  
+•  Developed using React, Node.js, and Express.js with secure authentication flow.  
+•  Implemented features like search, filters, job details view, and protected routes.  
+•  Used HTML, CSS, and responsive design practices for a clean UI across devices. 
+•  Integrated RESTful APIs to fetch job listings and handled state with React hooks.. 
+ 
+   Omni-Food Project  [HTML, CSS, and JavaScript] 
+•  Used React Router for routing across Home, Trending, Gaming, and Saved Videos pages. 
+•  Implemented a Seamless User Experience with an intuitive interface for easy menu 
+browsing. 
+•  Designed a Fully Responsive Website ensuring accessibility across all devices for optimal 
+user experience. 
+•  Deployed the Project on GitHub Pages for live accessibility and streamlined updates. 
+•  Utilized Version Control (Git & GitHub) for efficient project management and collaboration. 
+Certifications – View All Certificates 
+Certified in MERN Stack Web Development, with hands-on experience building full-stack applications 
+using MongoDB, Express.js, React, and Node.js. 
