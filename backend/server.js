@@ -11,14 +11,26 @@ import resumeRoutes from './routes/resumeRoutes.js';
 const app = express();
 import cors from 'cors';
 
-const PORT = process.env.PORT || 3000;
-
 dotenv.config();
+
+const PORT = process.env.PORT || 3000;
 // Connect to MongoDB
 connectDB();
 
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+  process.env.FRONTEND_URL,
+].filter(Boolean);
+
 app.use(cors({
-  origin: 'http://localhost:5173/',
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+
+    return callback(new Error(`CORS blocked for origin: ${origin}`));
+  },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']

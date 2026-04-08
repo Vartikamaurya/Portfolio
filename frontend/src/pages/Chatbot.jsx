@@ -3,7 +3,7 @@ import { askChatbot } from '../services/api';
 import { FaPaperPlane, FaRobot, FaUser } from 'react-icons/fa';
 
 const demoMessages = [
-  { from: 'bot', text: 'Hi! I\'m an AI assistant representing MD TOUSIF ALAM. Ask me anything about his experience, skills, projects, or background!' },
+  { from: 'bot', text: 'Hi! I\'m an AI assistant representing Vartika Maurya. Ask me anything about her experience, skills, projects, or background!' },
 ];
 
 const Chatbot = () => {
