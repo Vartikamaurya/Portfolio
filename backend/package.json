@@ -19,7 +19,7 @@
     "express": "^5.1.0",
     "groq-sdk": "^0.27.0",
     "jsonwebtoken": "^9.0.2",
-    "mongodb": "^6.17.0",
+    "mongodb": "^6.21.0",
     "mongoose": "^8.16.2",
     "nodemailer": "^7.0.5"
   }
